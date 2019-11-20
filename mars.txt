@@ -3,4 +3,5 @@ git add
 git commit -m "AA"
 git status
 git log
+git diff
 
